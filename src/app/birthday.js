@@ -58,8 +58,8 @@ function BirthdayPage() {
 				transition={{ delay: 1, duration: 2 }}
 			>
 				🎉 Happy Birthday to a Truly Special Girl! 🎂💖 today is the most
-				special day because it's the day you came into this world and made it
-				brighter. ✨ every moment with you has always being filled with
+				special day because it&apos;s the day you came into this world and made
+				it brighter. ✨ every moment with you has always being filled with
 				happiness, love, and endless joy. I am so grateful for every smile,
 				every laugh, and every beautiful moment we share. Today is all about
 				you—your kindness, your beauty, your heart, and the joy you bring to
@@ -70,8 +70,8 @@ function BirthdayPage() {
 				opportunities, and dreams that come true! Keep shining, keep smiling,
 				and keep being the incredible person you are! 💕🎈 Wishing you a
 				birthday as amazing as you are! 🥳🎂🎊🎁 With love and best wishes, and
-				I’ll always be here to celebrate you—not just today, but every single
-				day.
+				I&apos;ll always be here to celebrate you—not just today, but every
+				single day.
 			</motion.p>
 			{/* Floating Balloons */}
 			{showBalloons &&

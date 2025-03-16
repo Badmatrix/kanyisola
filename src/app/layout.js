@@ -14,7 +14,7 @@ const fredoka = Fredoka({
 
 export const metadata = {
 	title: "Happy birthday 🎈⚡",
-	description: "Birthday girl",
+	description: "Birthday",
 };
 
 export default function RootLayout({ children }) {
